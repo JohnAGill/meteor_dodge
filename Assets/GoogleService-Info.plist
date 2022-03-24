@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>86578614113-tbu8e2hq5h65hpk4u4sop92pql3op3ms.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.86578614113-tbu8e2hq5h65hpk4u4sop92pql3op3ms</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCMXKw656oPXa6519y59Ovn9N4rsBV9iz0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>86578614113</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.exorttech.meteorDodge</string>
+	<key>PROJECT_ID</key>
+	<string>game-poc-4097c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>game-poc-4097c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:86578614113:ios:ccdecc589f042ab5f17f20</string>
+</dict>
+</plist>

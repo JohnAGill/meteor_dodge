@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "86578614113",
+    "project_id": "game-poc-4097c",
+    "storage_bucket": "game-poc-4097c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86578614113:android:d4cc8ab93726bab4f17f20",
+        "android_client_info": {
+          "package_name": "com.exorttech.meteorDodge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86578614113-43pvl7d63ki4b8j0ghgh9mfj784uo60j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekQmVqGZ0cIUIUWBeF8MQlCKyXondd4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86578614113-43pvl7d63ki4b8j0ghgh9mfj784uo60j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86578614113-tbu8e2hq5h65hpk4u4sop92pql3op3ms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exorttech.meteorDodge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
